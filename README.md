@@ -1,2 +1,2 @@
-### 👋 _Hi, I’m @keerthana chowdary_ ###
+### 👋 _Hi, I’m @keerthana Chowdary_ ###
 
