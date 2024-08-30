@@ -17,7 +17,7 @@ I'm a Full Stack Developer passionate about creating interactive and scalable we
 
 # Let's Connect!
 
-[<img src='https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/keerthana-chowdary-bb97a3270/) 
+[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/keerthana-chowdary-bb97a3270/) 
 
 _Feel free to explore my repositories and connect with me. Let's build something great together! 🚀_
 
