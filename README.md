@@ -2,7 +2,8 @@
 
 I'm a Full Stack Developer passionate about creating interactive and scalable web applications. I leverage my skills in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, and MongoDB, to build technically robust and business-focused solutions. I thrive on combining technical expertise with a deep understanding of user needs to deliver impactful, high-quality results.
 
-![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
+![Profile Views](https://komarev.com/ghpvc/?username=keerthanachowdary21&color=blue)
+
 
 # About Me
 - 💼 Full Stack Developer
