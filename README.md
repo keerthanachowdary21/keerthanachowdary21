@@ -1,5 +1,5 @@
-<p style="font-family: 'Segoe Print'; color: #33fcff;">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=38&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Keerthana;MERN stack developer" width="auto" height="35"/>
+<p>
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe Print&color=%33fcff&size=38&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Keerthana;MERN stack developer" width="auto" height="35"/>
 </p>
 
 
