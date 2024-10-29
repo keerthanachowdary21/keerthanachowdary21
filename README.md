@@ -1,6 +1,7 @@
-<p>
+<p style="font-family: 'Roboto Slab', sans-serif; color: #7E3ACE;">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Keerthana;MERN stack developer" width="auto" height="35"/>
 </p>
+
 
 I'm a Full Stack Developer passionate about creating interactive and scalable web applications. I leverage my skills in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, and MongoDB, to build technically robust and business-focused solutions. I thrive on combining technical expertise with a deep understanding of user needs to deliver impactful, high-quality results.
 
