@@ -11,7 +11,7 @@ I'm a Full Stack Developer passionate about creating interactive and scalable we
 # About Me
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js
-- ✨ Completed Full Stack Development at NxT Wave
+- ✨ Completed Full Stack Development at NxtWave
 
 # Tools and Languages ###
 
