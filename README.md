@@ -1,5 +1,5 @@
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Segoe Print&color=%43d4ff&size=40& left=true&left=true&width=450&duration=1500&pause=1000&lines=I'm Keerthana;MERN stack developer" width="auto" height="35"/>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe Print&color=%43d4ff&size=35& left=true&left=true&width=450&duration=1500&pause=1000&lines=I'm Keerthana;MERN stack developer" width="auto" height="35"/>
 </p>
 
 
