@@ -13,7 +13,7 @@ I'm a Full-Stack Developer passionate about creating interactive and scalable we
 
 ## Tools and Languages 
 ### Frontend Technologies:
-<img src="https://img.shields.io/badge/HTML-Markup%20Language-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML Badge" /> <img src="https://img.shields.io/badge/CSS-Stylesheet%20Language-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS Badge" /> <img src="https://img.shields.io/badge/Bootstrap-Frontend%20Framework-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" /> <img src="https://img.shields.io/badge/JavaScript-Programming%20Language-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Badge" /> <img src="https://img.shields.io/badge/React-JavaScript%20Library-61DAFB?style=plastic&logo=react&logoColor=black" alt="React.js Badge" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML Badge" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS Badge" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Badge" /> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React.js Badge" />
 
 ### Backend Technologies:
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge" /> <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js Badge" />
@@ -32,7 +32,7 @@ I'm a Full-Stack Developer passionate about creating interactive and scalable we
 ## Let's Connect!
 
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/keerthana-chowdary-bb97a3270/) 
-
+[<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />](https://www.linkedin.com/in/keerthana-chowdary-bb97a3270/) 
 _Feel free to explore my repositories and connect with me. Let's build something great together! 🚀_
 
 
