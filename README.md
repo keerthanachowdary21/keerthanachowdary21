@@ -9,17 +9,16 @@ I'm a Full-Stack Developer passionate about creating interactive and scalable we
 
 ## About Me
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js
-- ✨ Completed Full Stack Development at NxtWave
+- ✨ Completed Full-Stack Development at NxtWave
 
 ## Tools and Languages 
-### Frontend Technologies
+### Frontend Technologies:
 <img src="https://img.shields.io/badge/HTML-Markup%20Language-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML Badge" /> <img src="https://img.shields.io/badge/CSS-Stylesheet%20Language-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS Badge" /> <img src="https://img.shields.io/badge/Bootstrap-Frontend%20Framework-563D7C?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" /> <img src="https://img.shields.io/badge/JavaScript-Programming%20Language-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Badge" /> <img src="https://img.shields.io/badge/React-JavaScript%20Library-61DAFB?style=plastic&logo=react&logoColor=black" alt="React.js Badge" />
 
-### Backend technologies
+### Backend Technologies:
 <img src="https://img.shields.io/badge/Python-Programming%20Language-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/Node.js-JavaScript%20Runtime-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge" /> <img src="https://img.shields.io/badge/Express.js-Node.js%20Framework-000000?style=plastic&logo=express&logoColor=white" alt="Express.js Badge" />
 
-### database technologies
+### DataBase Technologies:
 <img src="https://img.shields.io/badge/SQL-Database%20Language-4479A1?style=plastic&logo=postgresql&logoColor=white" alt="SQL Badge" /> <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 
 **Design Tool**:<img src="https://img.shields.io/badge/Figma-Design%20Tool-000000?style=plastic&logo=figma&logoColor=white" alt="Figma Badge" />
