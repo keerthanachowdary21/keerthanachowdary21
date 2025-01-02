@@ -16,7 +16,7 @@ I'm a Full-Stack Developer passionate about creating interactive and scalable we
 ### Backend Technologies:
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" /> <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js Badge" /> <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js Badge" />
 ### DataBase Technologies:
-<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=sql&logoColor=white" alt="SQL Badge" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=SQL&logoColor=white" alt="SQL Badge" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
 
 **Design Tool**: <img src="https://img.shields.io/badge/Figma-000000?style=plastic&logo=figma&logoColor=white" alt="Figma Badge" />
 
