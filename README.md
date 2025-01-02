@@ -1,7 +1,6 @@
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Segoe Print&color=%43d4ff&size=35& left=true&left=true&width=450&duration=1500&pause=1000&lines=I'm Keerthana;MERN stack developer" width="auto" height="35"/>
 </p>
-
 I'm a Full-Stack Developer passionate about creating interactive and scalable web applications. I leverage my skills in HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, SQLite, and MongoDB to build technically robust and business-focused solutions. I thrive on combining technical expertise with a deep understanding of user needs to deliver impactful, high-quality results.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keerthanachowdary21&color=green)
